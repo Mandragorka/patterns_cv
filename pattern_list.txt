@@ -1,0 +1,28 @@
+﻿Порождающие шаблоны проектирования
+Sakhnevych		Abstract Factory — Абстрактная фабрика
+			Factory Method — Фабричный метод
+Shynkarenko		Builder — Строитель
+Shapovalov		Prototype — Прототип
+Sevastianova    Singleton — Одиночка
+
+Структурные шаблоны проектирования
+				Adapter — Адаптер
+				Bridge — Мост
+				Composite — Компоновщик
+				Decorator — Декоратор
+				Facade — Фасад
+				Flyweight — Приспособленец
+				Proxy — Заместитель
+
+Поведенческие шаблоны проектирования
+				Chain of responsibility — Цепочка обязанностей
+				Command — Команда
+				Interpreter — Интерпретатор
+				Iterator — Итератор
+				Mediator — Посредник
+				Memento — Хранитель
+				Observer — Наблюдатель
+				State — Состояние
+				Strategy — Стратегия
+				Template — Шаблонный метод
+				Visitor — Посетитель
